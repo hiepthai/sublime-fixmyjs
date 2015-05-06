@@ -1,3 +1,5 @@
 {
-    "legacy": true
+    "legacy": true,
+    "run_on_save": false,
+    "filename_filter": "(\\.js|\\.json)$"
 }
